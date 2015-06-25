@@ -1,0 +1,34 @@
+#beepbeep{
+	position:fixed;
+    top:0;
+    right:0;
+    width: 500px;
+    background-color: red;
+    z-index: 1000;
+    padding-top: 50px;
+    background-color: rgba(255, 255, 255, 0);
+
+}
+
+#beep{
+  width: 480px;
+  margin: 5px 1px;
+  margin-left: 500px;
+  float: left;
+  border-radius: 4px;
+  }
+
+  #beep p{
+	  margin-top: 2px;
+	  margin-bottom: 2px;
+	  padding-left: 10px;
+		font-family: 'Lato', sans-serif;
+		font-size: 0.8em;
+		padding: 3px 10px;
+  }
+
+	#beep img{
+		height: 30px;
+		float: left;
+		margin: 5px;
+	}
